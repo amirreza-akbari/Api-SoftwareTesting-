@@ -1,8 +1,8 @@
-# 🌟 Laravel Score API 🌟
+# 🌟 Laravel Api-SoftwareTesting 🌟
 
 ![Laravel Logo](https://laravel.com/img/logomark.min.svg)
 
-Welcome to the **Laravel Score API** — your ultimate solution for managing users and their scores! Built with **Laravel**, this **RESTful API** allows you to manage user data, scores, and a leaderboard with ease.
+Welcome to the **Laravel Api-SoftwareTesting** — your ultimate solution for managing users and their scores! Built with **Laravel**, this **RESTful API** allows you to manage user data, scores, and a leaderboard with ease.
 
 ## 🚀 Key Features
 
