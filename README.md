@@ -38,5 +38,5 @@ Before getting started, ensure you have the following installed:
 To get started, clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/username/laravel-score-api.git
-cd laravel-score-api
+git clone https://github.com/username/Api-SoftwareTesting-
+cd Api-SoftwareTesting-
